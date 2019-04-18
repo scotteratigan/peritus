@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.5ffa8e21.chunk.css",
-  "main.js": "/static/js/main.ea90625e.chunk.js",
-  "main.js.map": "/static/js/main.ea90625e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.1798ea49.chunk.js": "/static/js/2.1798ea49.chunk.js",
-  "static/js/2.1798ea49.chunk.js.map": "/static/js/2.1798ea49.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b52c344aa84bb6395977fb5c5ba81551.js": "/precache-manifest.b52c344aa84bb6395977fb5c5ba81551.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.5ffa8e21.chunk.css.map": "/static/css/main.5ffa8e21.chunk.css.map",
-  "static/media/leftnav.png": "/static/media/leftnav.2ecf0bb9.png"
+  "main.css": "/peritus/static/css/main.5ffa8e21.chunk.css",
+  "main.js": "/peritus/static/js/main.150f4532.chunk.js",
+  "main.js.map": "/peritus/static/js/main.150f4532.chunk.js.map",
+  "runtime~main.js": "/peritus/static/js/runtime~main.5063462b.js",
+  "runtime~main.js.map": "/peritus/static/js/runtime~main.5063462b.js.map",
+  "static/js/2.1798ea49.chunk.js": "/peritus/static/js/2.1798ea49.chunk.js",
+  "static/js/2.1798ea49.chunk.js.map": "/peritus/static/js/2.1798ea49.chunk.js.map",
+  "index.html": "/peritus/index.html",
+  "precache-manifest.bff947e43a3ca95843acb2329a793a07.js": "/peritus/precache-manifest.bff947e43a3ca95843acb2329a793a07.js",
+  "service-worker.js": "/peritus/service-worker.js",
+  "static/css/main.5ffa8e21.chunk.css.map": "/peritus/static/css/main.5ffa8e21.chunk.css.map",
+  "static/media/leftnav.png": "/peritus/static/media/leftnav.2ecf0bb9.png"
 }
